@@ -1,0 +1,2 @@
+uszipcode>=1.0.0
+sqlalchemy-mate~=1.4.0
